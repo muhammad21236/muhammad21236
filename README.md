@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FCF&height=200&section=header&text=Muhammad%20Atta&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FCF&height=200&section=header&text=Muhammad&fontSize=45&fontColor=ffffff" />
 
-# 👋 Welcome to My Space
+# 👋 Welcome to My Github Profile
 
 I’m **Muhammad Atta**, a passionate developer specialized in:
 
