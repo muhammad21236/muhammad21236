@@ -9,7 +9,8 @@ I’m **Muhammad**, a passionate developer specialized in:
 - Docker
 - AWS (EC2, S3, RDS)
 - Kubernetes
-- Git & GitHub Actions
+- Git & GitHub Action
+- Golang
 - Python
 - Django
 - FastAPI
