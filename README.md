@@ -3,7 +3,7 @@
 
 # 👋 Welcome to My Github Profile
 
-I’m **Muhammad Atta**, a passionate developer specialized in:
+I’m **Muhammad**, a passionate developer specialized in:
 
 - DevOps
 - Docker
