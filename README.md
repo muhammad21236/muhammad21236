@@ -7,7 +7,7 @@ I’m **Muhammad**, a passionate developer specialized in:
 
 - DevOps
 - Docker
-- AWS (EC2, S3, RDS)
+- AWS (EC2, S3, RDS, ECS, EKS)
 - Kubernetes
 - Git & GitHub Actions
 - Golang
