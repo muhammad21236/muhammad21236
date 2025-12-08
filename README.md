@@ -1,47 +1,49 @@
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FCF&height=200&section=header&text=Muhammad&fontSize=45&fontColor=ffffff" />
 
-# 👋 Welcome to My Github Profile
+```markdown
+# Muhammad Atta
 
-I’m **Muhammad**, a passionate developer specialized in:
+**DevOps & Cloud Engineer** | AWS • Kubernetes • Terraform | 🇸🇦 Native Arabic Speaker
 
-- DevOps
-- Docker
-- AWS (EC2, S3, RDS, ECS, EKS)
-- Kubernetes
-- Git & GitHub Actions
-- Golang
-- Python
-- Django
-- FastAPI
-- PostgreSQL & MySQL
-- React Native
+Building production-ready cloud infrastructure that scales.
 
 ---
 
-## 🚀 Featured Projects
+## 🔧 Tech Stack
 
-| Projects              | Description                                 | Tech Stack            |
-|:---------------------|:---------------------------------------------|:----------------------|
-| 🅿️ Perfect Parking App | Real-time smart parking management system  | Django, OpenCV, AWS   |
-| 📦 DevOps CI/CD Demo   | Automated CI/CD pipeline using GitHub Actions & Docker | AWS, Docker |
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad21236&show_icons=true&theme=midnight-purple" width="450"/>
-  <img src="https://streak-stats.demolab.com?user=muhammad21236&theme=midnight-purple&hide_border=true" width="400"/>
-</p>
+**Cloud**: AWS (ECS, EKS, Lambda, S3, CloudFront, Route 53) • Azure Fundamentals • GCP
+**DevOps**: Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • ArgoCD
+**Languages**: Python • Go • JavaScript • Bash • SQL
+**Databases**: PostgreSQL • MongoDB • DynamoDB • Redis
+**AI/ML**: OpenAI API • Google Gemini • n8n automation
 
 ---
 
-## 📫 Connect with Me  
+## 🚀 Highlights
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-atta-24b073325/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matta5292@gmail.com)
+- ✅ Deployed production Kubernetes clusters on AWS EKS
+- ✅ Built CI/CD pipelines reducing deployment time by 80%
+- ✅ Designed secure Zero-Trust infrastructure architectures
+- ✅ Created AI automation delivering 85% efficiency improvements
+- ✅ 10+ production-ready projects demonstrating real capability
 
 ---
 
-> *"Crafting code for real-world impact."*
+## 📊 Featured Repositories
+
+[![E-commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=muhammad21236&repo=E_COMMERCE_DEVOPS_Implementation&theme=tokyonight)](https://github.com/muhammad21236/E_COMMERCE_DEVOPS_Implementation)
+
+[![Secure Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=muhammad21236&repo=limbic-devops-assessment&theme=tokyonight)](https://github.com/muhammad21236/limbic-devops-assessment)
+
+[![Parking App](https://github-readme-stats.vercel.app/api/pin/?username=muhammad21236&repo=Parking_App_FYP&theme=tokyonight)](https://github.com/muhammad21236/Parking_App_FYP)
+
+---
+
+## 📫 Connect
+
+🌐 [Portfolio](https://muhammad-cloudresume.site) • 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-atta-24b073325/) • 📧 matta5292@gmail.com
+
+**Seeking**: DevOps Engineer | Cloud Engineer roles in Saudi Arabia 🇸🇦
+**Status**: Immediately available | Ready to relocate
+```
+
+---
