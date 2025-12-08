@@ -1,5 +1,8 @@
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FCF&height=200&section=header&text=Muhammad&fontSize=45&fontColor=ffffff" />
 
-```markdown
+# 👋 Welcome to My Github Profile
+
 # Muhammad Atta
 
 **DevOps & Cloud Engineer** | AWS • Kubernetes • Terraform | 🇸🇦 Native Arabic Speaker
@@ -44,6 +47,4 @@ Building production-ready cloud infrastructure that scales.
 
 **Seeking**: DevOps Engineer | Cloud Engineer roles in Saudi Arabia 🇸🇦
 **Status**: Immediately available | Ready to relocate
-```
 
----
