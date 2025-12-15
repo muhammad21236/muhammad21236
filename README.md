@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FCF&height=200&section=header&text=Muhammad&fontSize=45&fontColor=ffffff" />
+<img src="https://camo.githubusercontent.com/308fa3b0320d6915144777bf1c9593bd3d1829fd07fc5b8b2507ffd61fe85361/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" />
 
 # 👋 Welcome to My Github Profile
 
