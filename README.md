@@ -3,7 +3,7 @@
 
 # 👋 Welcome to My Github Profile
 
-# Muhammad Atta
+# Muhammad
 
 **DevOps & Cloud Engineer** | AWS • Kubernetes • Terraform | 🇸🇦 Native Arabic Speaker
 
